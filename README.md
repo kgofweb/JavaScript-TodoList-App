@@ -15,6 +15,6 @@ How to create an element in the JS and insert it in the HTML
 
 -`IndexOne`
 
--Splice
+-`Splice`
 
--Switch
+-`Switch`
